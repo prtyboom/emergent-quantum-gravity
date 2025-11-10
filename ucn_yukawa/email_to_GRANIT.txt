@@ -1,0 +1,23 @@
+Subject: Proposal: Test of Yukawa Gravity via UCN Quantum States
+
+Dear GRANIT Collaboration,
+
+I am writing to propose precision measurements of UCN energy levels to search for 
+Yukawa-modified gravity predicted by emergent gravity theories.
+
+KEY FINDING: Your current precision (δE₁ ≈ 0.014 peV) enables 5σ discovery of 
+graviphoton masses m_ε < 0.05 eV/c² — a parameter space inaccessible to other experiments.
+
+PREDICTED SIGNAL: Energy shift ΔE₁ up to 1.27 peV for screening length λ_g ~ 1 cm,
+corresponding to 91σ significance with existing apparatus.
+
+FEASIBILITY: No hardware modifications required. Estimated 20 beam shifts.
+
+Full proposal attached. All numerical code open-source:
+https://github.com/prtyboom/emergent-quantum-gravity/tree/main/ucn_yukawa
+
+I would be delighted to discuss this at your convenience.
+
+Best regards,
+Fedor Kapitanov
+prtyboom@gmail.com

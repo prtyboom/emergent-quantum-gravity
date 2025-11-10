@@ -4,3 +4,13 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 .DS_Store
+# UCN data
+ucn_yukawa/*.npz
+ucn_yukawa/__pycache__/
+
+# Temp files
+0
+0])
+echo
+r_range*
+test_gravity.py```
