@@ -28,3 +28,23 @@
 git clone https://github.com/prtyboom/emergent-quantum-gravity.git
 cd emergent-quantum-gravity
 pip install -r requirements.txt
+## 🔬 NEW: UCN Quantum Bouncer Predictions
+
+**Testable prediction for GRANIT experiment!**
+
+We calculated energy level shifts in ultracold neutron quantum states if gravity has Yukawa modification:
+
+### Key Results:
+- ✅ **5σ discovery** possible for graviphoton mass **m_ε < 0.05 eV/c²**
+- ✅ **Maximum shift:** ΔE₁ = 1.27 peV (**91σ** significance)
+- ✅ **Screening length:** λ_g = 4-10 μm testable
+- ✅ **No new hardware** — existing GRANIT apparatus sufficient
+
+📂 **Full analysis:** [ucn_yukawa/](ucn_yukawa/)
+
+![UCN Predictions](ucn_yukawa/yukawa_ucn_full_analysis.png)
+
+### Quick test:
+```bash
+cd ucn_yukawa
+python yukawa_scan.py
