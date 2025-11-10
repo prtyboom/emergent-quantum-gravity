@@ -1,0 +1,1 @@
+        self.sigma = np.median(self.dists[self.dists 
