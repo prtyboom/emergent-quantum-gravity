@@ -1,0 +1,12 @@
+# Python  
+__pycache__/  
+*.py[cod]  
+*.so  
+# LaTeX  
+*.aux  
+*.log  
+*.out  
+*.toc  
+# Data  
+*.csv  
+!data/*.csv 
